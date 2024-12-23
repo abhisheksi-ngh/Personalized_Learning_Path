@@ -1,0 +1,444 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Kajal",
+            "strengths": [
+                "Creativity",
+                "Teamwork"
+            ],
+            "weaknesses": [
+                "Time management",
+                "Technical skills"
+            ],
+            "interests": [
+                "Painting",
+                "Sports"
+            ],
+            "preferences": {
+                "learning_style": "Auditory",
+                "preferred_topics": [
+                    "Web Development"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Mohit",
+            "strengths": [
+                "Communication",
+                "Teamwork"
+            ],
+            "weaknesses": [
+                "Public speaking",
+                "Organization"
+            ],
+            "interests": [
+                "Programming",
+                "Performing arts"
+            ],
+            "preferences": {
+                "learning_style": "Kinesthetic",
+                "preferred_topics": [
+                    "AI"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "Alia",
+            "strengths": [
+                "Problem-solving",
+                "Creativity"
+            ],
+            "weaknesses": [
+                "Organization",
+                "Focus"
+            ],
+            "interests": [
+                "Performing arts",
+                "Sports"
+            ],
+            "preferences": {
+                "learning_style": "Auditory",
+                "preferred_topics": [
+                    "Automation"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "name": "Rohit",
+            "strengths": [
+                "Communication",
+                "Teamwork"
+            ],
+            "weaknesses": [
+                "Technical skills",
+                "Public speaking"
+            ],
+            "interests": [
+                "Programming",
+                "Music"
+            ],
+            "preferences": {
+                "learning_style": "Visual",
+                "preferred_topics": [
+                    "Web Development"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "name": "Neha",
+            "strengths": [
+                "Leadership",
+                "Teamwork"
+            ],
+            "weaknesses": [
+                "Focus",
+                "Organization"
+            ],
+            "interests": [
+                "Sports",
+                "Robotics"
+            ],
+            "preferences": {
+                "learning_style": "Kinesthetic",
+                "preferred_topics": [
+                    "Data Science"
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "name": "Sakashi",
+            "strengths": [
+                "Leadership",
+                "Communication"
+            ],
+            "weaknesses": [
+                "Technical skills",
+                "Public speaking"
+            ],
+            "interests": [
+                "Sports",
+                "Music"
+            ],
+            "preferences": {
+                "learning_style": "Auditory",
+                "preferred_topics": [
+                    "Data Science"
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "name": "Rahul",
+            "strengths": [
+                "Teamwork",
+                "Creativity"
+            ],
+            "weaknesses": [
+                "Technical skills",
+                "Organization"
+            ],
+            "interests": [
+                "Performing arts",
+                "Programming"
+            ],
+            "preferences": {
+                "learning_style": "Auditory",
+                "preferred_topics": [
+                    "Data Science"
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "name": "Payal",
+            "strengths": [
+                "Teamwork",
+                "Creativity"
+            ],
+            "weaknesses": [
+                "Time management",
+                "Organization"
+            ],
+            "interests": [
+                "Robotics",
+                "Performing arts"
+            ],
+            "preferences": {
+                "learning_style": "Kinesthetic",
+                "preferred_topics": [
+                    "Web Development"
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "name": "Amit",
+            "strengths": [
+                "Communication",
+                "Leadership"
+            ],
+            "weaknesses": [
+                "Public speaking",
+                "Organization"
+            ],
+            "interests": [
+                "Sports",
+                "Programming"
+            ],
+            "preferences": {
+                "learning_style": "Visual",
+                "preferred_topics": [
+                    "Automation"
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "name": "Shaneha",
+            "strengths": [
+                "Communication",
+                "Problem-solving"
+            ],
+            "weaknesses": [
+                "Focus",
+                "Time management"
+            ],
+            "interests": [
+                "Robotics",
+                "Music"
+            ],
+            "preferences": {
+                "learning_style": "Auditory",
+                "preferred_topics": [
+                    "Data Science"
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "name": "Vishal",
+            "strengths": [
+                "Problem-solving",
+                "Creativity"
+            ],
+            "weaknesses": [
+                "Time management",
+                "Public speaking"
+            ],
+            "interests": [
+                "Programming",
+                "Sports"
+            ],
+            "preferences": {
+                "learning_style": "Kinesthetic",
+                "preferred_topics": [
+                    "Automation"
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "name": "Priti",
+            "strengths": [
+                "Leadership",
+                "Teamwork"
+            ],
+            "weaknesses": [
+                "Public speaking",
+                "Technical skills"
+            ],
+            "interests": [
+                "Performing arts",
+                "Sports"
+            ],
+            "preferences": {
+                "learning_style": "Visual",
+                "preferred_topics": [
+                    "Data Science"
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "name": "Ankit",
+            "strengths": [
+                "Leadership",
+                "Teamwork"
+            ],
+            "weaknesses": [
+                "Public speaking",
+                "Organization"
+            ],
+            "interests": [
+                "Performing arts",
+                "Painting"
+            ],
+            "preferences": {
+                "learning_style": "Auditory",
+                "preferred_topics": [
+                    "AI"
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "name": "Priyanaka",
+            "strengths": [
+                "Problem-solving",
+                "Teamwork"
+            ],
+            "weaknesses": [
+                "Organization",
+                "Public speaking"
+            ],
+            "interests": [
+                "Painting",
+                "Programming"
+            ],
+            "preferences": {
+                "learning_style": "Kinesthetic",
+                "preferred_topics": [
+                    "Web Development"
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "name": "Deepak",
+            "strengths": [
+                "Leadership",
+                "Problem-solving"
+            ],
+            "weaknesses": [
+                "Organization",
+                "Time management"
+            ],
+            "interests": [
+                "Robotics",
+                "Painting"
+            ],
+            "preferences": {
+                "learning_style": "Kinesthetic",
+                "preferred_topics": [
+                    "Data Science"
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "name": "Sheetal",
+            "strengths": [
+                "Creativity",
+                "Problem-solving"
+            ],
+            "weaknesses": [
+                "Time management",
+                "Technical skills"
+            ],
+            "interests": [
+                "Music",
+                "Performing arts"
+            ],
+            "preferences": {
+                "learning_style": "Auditory",
+                "preferred_topics": [
+                    "Data Science"
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "name": "Gaurav",
+            "strengths": [
+                "Communication",
+                "Creativity"
+            ],
+            "weaknesses": [
+                "Focus",
+                "Technical skills"
+            ],
+            "interests": [
+                "Sports",
+                "Music"
+            ],
+            "preferences": {
+                "learning_style": "Auditory",
+                "preferred_topics": [
+                    "Data Science"
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "name": "Kriti",
+            "strengths": [
+                "Communication",
+                "Problem-solving"
+            ],
+            "weaknesses": [
+                "Organization",
+                "Time management"
+            ],
+            "interests": [
+                "Music",
+                "Robotics"
+            ],
+            "preferences": {
+                "learning_style": "Kinesthetic",
+                "preferred_topics": [
+                    "Web Development"
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "name": "Himanshu",
+            "strengths": [
+                "Creativity",
+                "Leadership"
+            ],
+            "weaknesses": [
+                "Public speaking",
+                "Time management"
+            ],
+            "interests": [
+                "Performing arts",
+                "Robotics"
+            ],
+            "preferences": {
+                "learning_style": "Visual",
+                "preferred_topics": [
+                    "AI"
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "name": "Joyti",
+            "strengths": [
+                "Problem-solving",
+                "Creativity"
+            ],
+            "weaknesses": [
+                "Public speaking",
+                "Organization"
+            ],
+            "interests": [
+                "Painting",
+                "Sports"
+            ],
+            "preferences": {
+                "learning_style": "Kinesthetic",
+                "preferred_topics": [
+                    "AI"
+                ]
+            }
+        }
+    ]
+}

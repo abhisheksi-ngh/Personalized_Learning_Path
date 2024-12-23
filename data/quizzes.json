@@ -1,0 +1,26 @@
+{
+    "quizzes": [  
+    {"question": "What is AI?", "options": ["Artificial Intelligence", "Artificial Info"], "answer": 0},
+    {"question": "What is Robotics?", "options": ["AI field", "Mechanical Engineering"], "answer": 1},
+    {"question": "What does HTML stand for?", "options": ["Hypertext Markup Language", "High Text Machine Language"], "answer": 0},
+    {"question": "What is Python?", "options": ["A programming language", "A snake"], "answer": 0},
+    {"question": "Which planet is known as the Red Planet?", "options": ["Mars", "Jupiter"], "answer": 0},
+    {"question": "What is the capital of France?", "options": ["Berlin", "Paris"], "answer": 1},
+    {"question": "What is the largest mammal?", "options": ["Elephant", "Blue Whale"], "answer": 1},
+    {"question": "Who wrote 'Romeo and Juliet'?", "options": ["William Shakespeare", "Charles Dickens"], "answer": 0},
+    {"question": "What is the boiling point of water?", "options": ["100°C", "90°C"], "answer": 0},
+    {"question": "What is the speed of light?", "options": ["299,792 km/s", "150,000 km/s"], "answer": 0},
+    {"question": "What is the smallest prime number?", "options": ["1", "2"], "answer": 1},
+    {"question": "Who painted the Mona Lisa?", "options": ["Leonardo da Vinci", "Vincent van Gogh"], "answer": 0},
+    {"question": "What is the powerhouse of the cell?", "options": ["Mitochondria", "Nucleus"], "answer": 0},
+    {"question": "Which element has the chemical symbol 'O'?", "options": ["Oxygen", "Gold"], "answer": 0},
+    {"question": "What is the freezing point of water?", "options": ["0°C", "10°C"], "answer": 0},
+    {"question": "Who discovered gravity?", "options": ["Isaac Newton", "Albert Einstein"], "answer": 0},
+    {"question": "What is 2+2?", "options": ["3", "4"], "answer": 1},
+    {"question": "Which ocean is the largest?", "options": ["Atlantic", "Pacific"], "answer": 1},
+    {"question": "What is H2O?", "options": ["Water", "Hydrogen"], "answer": 0},
+    {"question": "Who is known as the Father of Computers?", "options": ["Charles Babbage", "Alan Turing"], "answer": 0}
+]
+}
+
+ 

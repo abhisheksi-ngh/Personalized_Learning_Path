@@ -1,0 +1,2404 @@
+{
+    "attendance": [
+        {
+            "student_id": 1,
+            "workshop_id": "4",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "4",
+            "date": "2024-12-17 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "5",
+            "date": "2024-12-04 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "5",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "2",
+            "date": "2024-12-16 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "5",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "3",
+            "date": "2024-12-04 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "5",
+            "date": "2024-12-20 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "5",
+            "date": "2024-12-18 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "3",
+            "date": "2024-12-08 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "5",
+            "date": "2024-12-22 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "4",
+            "date": "2024-12-04 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "5",
+            "date": "2024-12-10 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "2",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "4",
+            "date": "2024-12-05 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "3",
+            "date": "2024-12-22 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "2",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "5",
+            "date": "2024-12-16 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "4",
+            "date": "2024-12-04 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 1,
+            "workshop_id": "1",
+            "date": "2024-12-19 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "3",
+            "date": "2024-12-04 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "1",
+            "date": "2024-12-12 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "1",
+            "date": "2024-12-21 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "2",
+            "date": "2024-12-06 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "5",
+            "date": "2024-12-16 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "5",
+            "date": "2024-12-11 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "2",
+            "date": "2024-12-22 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "4",
+            "date": "2024-12-18 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "3",
+            "date": "2024-12-06 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "3",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "3",
+            "date": "2024-12-09 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "4",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "3",
+            "date": "2024-12-19 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "3",
+            "date": "2024-12-10 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "4",
+            "date": "2024-12-16 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "5",
+            "date": "2024-12-20 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "4",
+            "date": "2024-12-11 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "4",
+            "date": "2024-12-11 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "5",
+            "date": "2024-12-04 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 2,
+            "workshop_id": "1",
+            "date": "2024-12-21 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "2",
+            "date": "2024-12-20 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "3",
+            "date": "2024-12-14 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "2",
+            "date": "2024-12-18 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "2",
+            "date": "2024-12-08 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "5",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "4",
+            "date": "2024-12-10 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "5",
+            "date": "2024-12-18 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "4",
+            "date": "2024-12-15 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "2",
+            "date": "2024-12-16 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "3",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "4",
+            "date": "2024-12-20 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "3",
+            "date": "2024-12-12 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "2",
+            "date": "2024-12-14 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "3",
+            "date": "2024-12-20 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "3",
+            "date": "2024-12-22 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "4",
+            "date": "2024-12-21 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "2",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "2",
+            "date": "2024-12-21 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "1",
+            "date": "2024-12-19 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 3,
+            "workshop_id": "5",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "4",
+            "date": "2024-12-15 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "3",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "1",
+            "date": "2024-12-08 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "1",
+            "date": "2024-12-18 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "5",
+            "date": "2024-12-15 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "4",
+            "date": "2024-12-16 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "4",
+            "date": "2024-12-11 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "3",
+            "date": "2024-12-11 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "1",
+            "date": "2024-12-05 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "5",
+            "date": "2024-12-07 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "2",
+            "date": "2024-12-07 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "3",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "3",
+            "date": "2024-12-12 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "1",
+            "date": "2024-12-18 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "2",
+            "date": "2024-12-19 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "1",
+            "date": "2024-12-20 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "3",
+            "date": "2024-12-07 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "5",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "3",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 4,
+            "workshop_id": "2",
+            "date": "2024-12-09 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "2",
+            "date": "2024-12-11 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "2",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "5",
+            "date": "2024-12-19 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "5",
+            "date": "2024-12-05 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "1",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "3",
+            "date": "2024-12-06 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "2",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "1",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "3",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "5",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "2",
+            "date": "2024-12-04 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "1",
+            "date": "2024-12-15 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "1",
+            "date": "2024-12-08 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "1",
+            "date": "2024-12-20 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "3",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "5",
+            "date": "2024-12-06 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "3",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "5",
+            "date": "2024-12-04 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "5",
+            "date": "2024-12-16 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 5,
+            "workshop_id": "2",
+            "date": "2024-12-11 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "4",
+            "date": "2024-12-16 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "1",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "5",
+            "date": "2024-12-06 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "2",
+            "date": "2024-12-19 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "2",
+            "date": "2024-12-13 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "3",
+            "date": "2024-12-22 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "3",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "2",
+            "date": "2024-12-15 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "3",
+            "date": "2024-12-07 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "3",
+            "date": "2024-12-04 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "3",
+            "date": "2024-12-17 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "2",
+            "date": "2024-12-14 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "5",
+            "date": "2024-12-10 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "5",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "5",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "3",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "3",
+            "date": "2024-12-08 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "2",
+            "date": "2024-12-18 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "4",
+            "date": "2024-12-21 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 6,
+            "workshop_id": "2",
+            "date": "2024-12-10 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "2",
+            "date": "2024-12-03 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "2",
+            "date": "2024-12-12 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "1",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "3",
+            "date": "2024-12-16 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "2",
+            "date": "2024-12-21 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "5",
+            "date": "2024-12-07 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "2",
+            "date": "2024-12-19 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "5",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "5",
+            "date": "2024-12-09 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "5",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "5",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "1",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "1",
+            "date": "2024-12-05 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "4",
+            "date": "2024-12-18 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "5",
+            "date": "2024-12-11 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "4",
+            "date": "2024-12-17 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "1",
+            "date": "2024-12-10 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "5",
+            "date": "2024-12-20 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "3",
+            "date": "2024-12-05 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 7,
+            "workshop_id": "3",
+            "date": "2024-12-07 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "5",
+            "date": "2024-12-10 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "5",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "2",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "3",
+            "date": "2024-12-19 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "1",
+            "date": "2024-12-07 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "4",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "3",
+            "date": "2024-12-09 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "4",
+            "date": "2024-12-09 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "4",
+            "date": "2024-12-10 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "3",
+            "date": "2024-12-05 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "4",
+            "date": "2024-12-17 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "1",
+            "date": "2024-12-08 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "2",
+            "date": "2024-12-18 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "4",
+            "date": "2024-12-21 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "2",
+            "date": "2024-12-14 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "5",
+            "date": "2024-12-21 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "1",
+            "date": "2024-12-12 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "1",
+            "date": "2024-12-04 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "4",
+            "date": "2024-12-04 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 8,
+            "workshop_id": "2",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "1",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "5",
+            "date": "2024-12-11 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "4",
+            "date": "2024-12-06 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "1",
+            "date": "2024-12-08 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "4",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "3",
+            "date": "2024-12-15 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "2",
+            "date": "2024-12-07 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "5",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "1",
+            "date": "2024-12-13 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "2",
+            "date": "2024-12-12 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "4",
+            "date": "2024-12-03 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "3",
+            "date": "2024-12-06 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "2",
+            "date": "2024-12-16 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "5",
+            "date": "2024-12-16 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "4",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "2",
+            "date": "2024-12-09 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "5",
+            "date": "2024-12-18 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "2",
+            "date": "2024-12-06 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "2",
+            "date": "2024-12-10 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 9,
+            "workshop_id": "5",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "4",
+            "date": "2024-12-15 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "2",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "1",
+            "date": "2024-12-11 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "1",
+            "date": "2024-12-04 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "3",
+            "date": "2024-12-19 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "1",
+            "date": "2024-12-15 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "5",
+            "date": "2024-12-22 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "4",
+            "date": "2024-12-04 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "5",
+            "date": "2024-12-06 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "5",
+            "date": "2024-12-22 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "5",
+            "date": "2024-12-20 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "1",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "1",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "2",
+            "date": "2024-12-08 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "1",
+            "date": "2024-12-08 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "3",
+            "date": "2024-12-10 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "2",
+            "date": "2024-12-22 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "3",
+            "date": "2024-12-07 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "3",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 10,
+            "workshop_id": "5",
+            "date": "2024-12-22 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "1",
+            "date": "2024-12-03 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "5",
+            "date": "2024-12-07 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "4",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "4",
+            "date": "2024-12-17 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "1",
+            "date": "2024-12-05 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "5",
+            "date": "2024-12-05 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "2",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "1",
+            "date": "2024-12-20 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "3",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "1",
+            "date": "2024-12-22 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "3",
+            "date": "2024-12-10 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "5",
+            "date": "2024-12-05 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "2",
+            "date": "2024-12-08 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "1",
+            "date": "2024-12-10 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "2",
+            "date": "2024-12-20 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "2",
+            "date": "2024-12-09 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "3",
+            "date": "2024-12-08 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "5",
+            "date": "2024-12-11 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "4",
+            "date": "2024-12-19 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 11,
+            "workshop_id": "5",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "3",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "5",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "3",
+            "date": "2024-12-09 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "4",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "4",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "1",
+            "date": "2024-12-15 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "4",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "5",
+            "date": "2024-12-04 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "1",
+            "date": "2024-12-07 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "2",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "3",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "3",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "4",
+            "date": "2024-12-03 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "5",
+            "date": "2024-12-10 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "3",
+            "date": "2024-12-09 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "5",
+            "date": "2024-12-05 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "4",
+            "date": "2024-12-19 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "2",
+            "date": "2024-12-06 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "1",
+            "date": "2024-12-21 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 12,
+            "workshop_id": "2",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "4",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "4",
+            "date": "2024-12-09 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "5",
+            "date": "2024-12-07 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "4",
+            "date": "2024-12-03 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "2",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "1",
+            "date": "2024-12-09 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "1",
+            "date": "2024-12-07 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "3",
+            "date": "2024-12-10 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "5",
+            "date": "2024-12-05 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "3",
+            "date": "2024-12-12 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "5",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "5",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "2",
+            "date": "2024-12-06 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "2",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "4",
+            "date": "2024-12-20 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "4",
+            "date": "2024-12-19 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "3",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "3",
+            "date": "2024-12-05 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "2",
+            "date": "2024-12-18 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 13,
+            "workshop_id": "1",
+            "date": "2024-12-21 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "2",
+            "date": "2024-12-15 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "4",
+            "date": "2024-12-04 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "2",
+            "date": "2024-12-20 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "5",
+            "date": "2024-12-11 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "2",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "4",
+            "date": "2024-12-16 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "1",
+            "date": "2024-12-22 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "4",
+            "date": "2024-12-11 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "5",
+            "date": "2024-12-18 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "4",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "5",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "5",
+            "date": "2024-12-15 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "4",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "1",
+            "date": "2024-12-18 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "2",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "1",
+            "date": "2024-12-21 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "1",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "4",
+            "date": "2024-12-19 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "5",
+            "date": "2024-12-18 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 14,
+            "workshop_id": "1",
+            "date": "2024-12-22 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "4",
+            "date": "2024-12-11 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "1",
+            "date": "2024-12-04 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "5",
+            "date": "2024-12-13 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "3",
+            "date": "2024-12-13 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "5",
+            "date": "2024-12-05 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "2",
+            "date": "2024-12-21 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "2",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "1",
+            "date": "2024-12-07 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "2",
+            "date": "2024-12-06 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "1",
+            "date": "2024-12-06 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "2",
+            "date": "2024-12-17 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "5",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "1",
+            "date": "2024-12-10 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "5",
+            "date": "2024-12-04 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "5",
+            "date": "2024-12-13 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "2",
+            "date": "2024-12-05 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "4",
+            "date": "2024-12-04 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "4",
+            "date": "2024-12-21 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "3",
+            "date": "2024-12-07 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 15,
+            "workshop_id": "4",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "2",
+            "date": "2024-12-03 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "3",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "3",
+            "date": "2024-12-15 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "4",
+            "date": "2024-12-17 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "5",
+            "date": "2024-12-20 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "4",
+            "date": "2024-12-18 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "1",
+            "date": "2024-12-07 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "2",
+            "date": "2024-12-20 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "2",
+            "date": "2024-12-18 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "2",
+            "date": "2024-12-04 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "5",
+            "date": "2024-12-17 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "3",
+            "date": "2024-12-19 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "2",
+            "date": "2024-12-12 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "1",
+            "date": "2024-12-16 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "3",
+            "date": "2024-12-08 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "4",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "3",
+            "date": "2024-12-21 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "1",
+            "date": "2024-12-11 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "3",
+            "date": "2024-12-05 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 16,
+            "workshop_id": "5",
+            "date": "2024-12-15 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "1",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "1",
+            "date": "2024-12-19 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "5",
+            "date": "2024-12-04 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "4",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "3",
+            "date": "2024-12-22 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "2",
+            "date": "2024-12-20 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "5",
+            "date": "2024-12-14 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "2",
+            "date": "2024-12-11 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "5",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "2",
+            "date": "2024-12-21 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "3",
+            "date": "2024-12-22 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "4",
+            "date": "2024-12-13 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "5",
+            "date": "2024-12-13 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "3",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "1",
+            "date": "2024-12-13 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "2",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "4",
+            "date": "2024-12-20 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "2",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "5",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 17,
+            "workshop_id": "3",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "1",
+            "date": "2024-12-11 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "4",
+            "date": "2024-12-10 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "1",
+            "date": "2024-12-20 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "1",
+            "date": "2024-12-20 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "2",
+            "date": "2024-12-10 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "3",
+            "date": "2024-12-13 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "5",
+            "date": "2024-12-21 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "3",
+            "date": "2024-12-07 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "3",
+            "date": "2024-12-11 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "2",
+            "date": "2024-12-22 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "5",
+            "date": "2024-12-10 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "5",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "3",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "4",
+            "date": "2024-12-20 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "1",
+            "date": "2024-12-21 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "5",
+            "date": "2024-12-08 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "1",
+            "date": "2024-12-10 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "5",
+            "date": "2024-12-07 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "4",
+            "date": "2024-12-10 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 18,
+            "workshop_id": "2",
+            "date": "2024-12-11 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "4",
+            "date": "2024-12-16 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "5",
+            "date": "2024-12-11 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "1",
+            "date": "2024-12-11 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "3",
+            "date": "2024-12-11 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "3",
+            "date": "2024-12-06 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "1",
+            "date": "2024-12-21 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "1",
+            "date": "2024-12-09 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "5",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "3",
+            "date": "2024-12-14 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "4",
+            "date": "2024-12-17 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "1",
+            "date": "2024-12-05 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "4",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "2",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "3",
+            "date": "2024-12-16 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "5",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "4",
+            "date": "2024-12-16 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "4",
+            "date": "2024-12-22 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "2",
+            "date": "2024-12-06 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "5",
+            "date": "2024-12-21 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 19,
+            "workshop_id": "3",
+            "date": "2024-12-21 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "2",
+            "date": "2024-12-12 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "2",
+            "date": "2024-12-12 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "4",
+            "date": "2024-12-04 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "2",
+            "date": "2024-12-13 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "5",
+            "date": "2024-12-05 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "1",
+            "date": "2024-12-21 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "5",
+            "date": "2024-12-10 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "5",
+            "date": "2024-12-10 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "5",
+            "date": "2024-12-19 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "4",
+            "date": "2024-12-11 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "2",
+            "date": "2024-12-16 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "5",
+            "date": "2024-12-07 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "3",
+            "date": "2024-12-14 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "1",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "3",
+            "date": "2024-12-03 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "5",
+            "date": "2024-12-12 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "3",
+            "date": "2024-12-17 07:57:17",
+            "status": "Present"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "5",
+            "date": "2024-12-11 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "4",
+            "date": "2024-12-21 07:57:17",
+            "status": "Absent"
+        },
+        {
+            "student_id": 20,
+            "workshop_id": "3",
+            "date": "2024-12-20 07:57:17",
+            "status": "Present"
+        }
+    ]
+}
